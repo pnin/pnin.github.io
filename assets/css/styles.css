@@ -111,18 +111,18 @@ html {
 }
 
 body {
-    /* font-family: 'Inter'; */
+    font-family: 'Inter';
 }
 
 .container-fluid {
-    max-width: 96%;
+    max-width: 95%;
 }
 
 /* Headings */
 
 h1, h2, h3, h4, h5, h6, p {
     /* font-size: 17px; */
-    /* font-size: 0.945em; */
+    font-size: 0.945em;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -297,14 +297,14 @@ a.review-item-active:hover {
 
 .tooltip {
     /* font-size: 17px; */
-    /* font-size: 0.945em; */
+    font-size: 0.945em;
 }
 
 .tooltip-inner {
     background-color: #fff;
     color: var(--pngray);
     white-space: nowrap;
-    /* font-family: 'Inter'; */
+    font-family: 'Inter';
     letter-spacing: normal;
 }
 
