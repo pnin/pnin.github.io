@@ -1,0 +1,207 @@
+
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>https://pratik.nl/</id>
+  <title>Pratik.nl</title>
+  <subtitle>Musings on tech, design, and life.</subtitle>
+  <updated>2022-10-01T23:50:27+05:30</updated>
+  <author>
+    <name>Pratik Nilange</name>
+    <uri>https://pratik.nl/</uri>
+  </author>
+  <link rel="self" type="application/atom+xml" href="https://pratik.nl/feed.xml"/>
+  <link rel="alternate" type="text/html" hreflang="en"
+    href="https://pratik.nl/"/>
+  <generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator>
+  <rights> © 2022 Pratik Nilange </rights>
+  <icon>/assets/img/favicons/favicon.ico</icon>
+  <logo>/assets/img/favicons/favicon-96x96.png</logo>
+
+
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://pratik.nl/posts/hello-world/" rel="alternate" type="text/html" title="Hello World" />
+    <published>2022-10-01T22:00:00+05:30</published>
+  
+    <updated>2022-10-01T22:00:00+05:30</updated>
+  
+    <id>https://pratik.nl/posts/hello-world/</id>
+    <content src="https://pratik.nl/posts/hello-world/" />
+    <author>
+      <name>Pratik Nilange</name>
+    </author>
+
+  
+    
+    <category term="Update" />
+    
+    <category term="Website" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      An obligatory hello world post.
+
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>Top Gun: Maverick – 2022</title>
+    <link href="https://pratik.nl/posts/top-gun-maverick-2022/" rel="alternate" type="text/html" title="Top Gun: Maverick – 2022" />
+    <published>2022-08-28T00:00:00+05:30</published>
+  
+    <updated>2022-10-01T10:28:30+05:30</updated>
+  
+    <id>https://pratik.nl/posts/top-gun-maverick-2022/</id>
+    <content src="https://pratik.nl/posts/top-gun-maverick-2022/" />
+    <author>
+      <name>Pratik Nilange</name>
+    </author>
+
+  
+    
+    <category term="reviews" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      One of the best movies of 2022! Action-packed, outstanding cinematography. Missed a lot of references though, because I haven’t watched the first instalment (Yeah, big mistake. I should’ve watched it). Cannot believe that two movies were shot 36 years apart. Tom Cruise sure is still at the top of his game. A solid 8/10!
+
+Watch the trailer here.
+
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>Chasing the Bullet – a Royal Enfield documentary</title>
+    <link href="https://pratik.nl/posts/chasing-the-bullet/" rel="alternate" type="text/html" title="Chasing the Bullet – a Royal Enfield documentary" />
+    <published>2022-08-28T00:00:00+05:30</published>
+  
+    <updated>2022-09-30T22:19:37+05:30</updated>
+  
+    <id>https://pratik.nl/posts/chasing-the-bullet/</id>
+    <content src="https://pratik.nl/posts/chasing-the-bullet/" />
+    <author>
+      <name>Pratik Nilange</name>
+    </author>
+
+  
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      Lucky to have started my motorcycling journey on a Royal Enfield, back in 2019! Here’s a great documentary on The Bullet by Chris Zahner.
+
+Watch the documentary here.
+
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>So many books, so little time</title>
+    <link href="https://pratik.nl/posts/so-many-books-so-little-time/" rel="alternate" type="text/html" title="So many books, so little time" />
+    <published>2022-07-13T00:00:00+05:30</published>
+  
+    <updated>2022-07-13T00:00:00+05:30</updated>
+  
+    <id>https://pratik.nl/posts/so-many-books-so-little-time/</id>
+    <content src="https://pratik.nl/posts/so-many-books-so-little-time/" />
+    <author>
+      <name>Pratik Nilange</name>
+    </author>
+
+  
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      
+    
+        One glance at a book and you hear the voice of another person, perhaps someone dead for 1,000 years. To read is to voyage through time.
+    
+    
+       Carl Sagan
+    
+
+
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>The Irishman – 2019</title>
+    <link href="https://pratik.nl/posts/the-irishman-2019/" rel="alternate" type="text/html" title="The Irishman – 2019" />
+    <published>2022-01-09T00:00:00+05:30</published>
+  
+    <updated>2022-01-09T00:00:00+05:30</updated>
+  
+    <id>https://pratik.nl/posts/the-irishman-2019/</id>
+    <content src="https://pratik.nl/posts/the-irishman-2019/" />
+    <author>
+      <name>Pratik Nilange</name>
+    </author>
+
+  
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      
+
+A sublime 7/10! Watched this 3+ hour flick in chunks. The story is intriguing, the cast is unparalleled, and the movie has The Godfather-like vibes to it because of the similar setting and period in which the storyline runs. Worth spending three hours on? Yup.
+
+    </summary>
+  
+
+  </entry>
+
+</feed>
+
+
