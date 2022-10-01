@@ -5,6 +5,14 @@
     font-weight: 500;
 }
 
+.fw-bold{
+    font-weight: 600 !important;
+}
+
+.fw-bolder{
+    font-weight: 700 !important;
+}
+
 /* Root */
 
 :root {

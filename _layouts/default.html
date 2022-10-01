@@ -21,7 +21,7 @@
     <div class="container-fluid py-5 px-4">
         <div id="navComp"></div>
         <div class="pb-4">
-            <p class="fw-bold" style="color: var(--pngray);">
+            <p class="fw-bolder" style="color: var(--pngray);">
                 {% for post in site.posts %}
                     <a title = "{{ post.date | date: site.nil.date_format }}" class = "{{ post.type }}-item" {% if post.external == true %}href="{{ post.link }}" target="_blank"{% else %}href="{{ post.url }}"{% endif %}>{{ post.title }}</a>, 
                 {% endfor %}

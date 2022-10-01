@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>{{ page.title }}</title>
+    <title>{{ page.title }} - Pratik Nilange</title>
 
     <script src="/assets/global/jquery-3.6.0.min.js"></script>
     <script src="/assets/global/popper.min.js"></script>
@@ -19,11 +19,16 @@
 <body id="fadepage">
     <div class="container-fluid py-5 px-4">
         <div>
-            <div id="navSmallComp"></div>
+            <!-- <div id="navSmallComp"></div> -->
+            <div>
+                <p class="fw-bolder">
+                    <a class="hometitle" href="/" data-bs-toggle="tooltip" data-bs-trigger="hover" data-bs-placement="right" title="pratik.nl">Pratik Nilange</a> <span style="color: var(--pngray);">{{ page.link }}</span>
+                </p>
+            </div>
             <!-- <hr class="divi"> -->
-            <p class="fw-bold black">
+            <!-- <p class="fw-bold black">
                 {{ page.title }}
-            </p>
+            </p> -->
         </div>
         <div class="col-lg-6">
             {{ content }}
