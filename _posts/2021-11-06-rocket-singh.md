@@ -1,7 +1,8 @@
 ---
 title: Rocket Singh
 type: review
-layout: post
+categories: [Review, Movie-Review]
+tags: [review, movie-review, rocket-singh, bollywood]
 ---
 
 <img src="https://upload.wikimedia.org/wikipedia/en/c/c3/Rocket_Singh_Salesman_of_the_Year.jpg" alt=""/>

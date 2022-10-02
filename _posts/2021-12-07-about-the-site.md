@@ -1,7 +1,8 @@
 ---
 title: About the site
 type: work
-layout: post
+categories: [Update, Website]
+tags: [update, wordpress, jekyll, github]
 ---
 
 After being hosted on GitHub Pages for >2 years, this site is now Powered by WordPress. I had not planned to make this shift so soon, as building with Jekyll was simple and nothing can beat the performance of a static site.

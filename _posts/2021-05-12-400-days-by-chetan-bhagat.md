@@ -1,7 +1,8 @@
 ---
 title: 400 Days by Chetan Bhagat
 type: review
-layout: post
+categories: [Review, Book-Review]
+tags: [review, book-review, chetan-bhagat]
 ---
 
 <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1633640897l/59237341._SY475_.jpg" alt=""/>

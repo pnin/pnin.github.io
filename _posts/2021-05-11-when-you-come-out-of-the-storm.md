@@ -1,7 +1,8 @@
 ---
 title: When you come out of the storm..
 type: blog
-layout: post
+categories: [Quote]
+tags: [quote, haruki-murakami]
 ---
 
 <figure>

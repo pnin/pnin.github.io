@@ -1,7 +1,8 @@
 ---
 title: What the hell was I thinking?!
 type: blog
-layout: post
+categories: [Motorcycling, Royal-Enfield]
+tags: [royal-enfield, motorcycling, life]
 ---
 
 I turned 19 this Summer (March to be precise) and I was up for a driving license test. I don’t know about it in other countries, but here in India it’s a serious business and you got to have pretty good driving skills to pass this test (unless you have a fixer). For non-transport vehicles, there are two variants of this test: A two-wheeler license test (For Motorcycle with Gear) and a Four-Wheeler License (For Cars). To ease up things a little, we consider driving a bike or a car whose dimensions and capacity are, you know, smaller compared to the ones we drive on road.
