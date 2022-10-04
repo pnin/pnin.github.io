@@ -6,6 +6,8 @@ order: 4
 
 Hello, I'm Pratik! I’m an engineer and a self-taught graphic designer living in Bangalore. I also write about electronics (mostly processors), motorcycles, cybersecurity, and cricket. I co-created The Boring Magazine, Gradiento, Internet Of Bings, The Circuit Breakers, and Nil 5tudio (sadly some of them are defunct A/O ’22). I speak and code in multiple languages (currently learning Español & Go).
 
+## Social
+
 <p>
     bad puns on <a href="https://twitter.com/pro7on" target="_blank" class="link">twitter</a>
     <br>
@@ -23,3 +25,7 @@ Hello, I'm Pratik! I’m an engineer and a self-taught graphic designer living i
     <br>
     spam me on my <a href="mailto:contact@pratiknilange.in" class="link">mail</a>
 </p>
+
+## About the site
+
+Read about the journey of this site in this [blog post](/posts/about-the-site/).
