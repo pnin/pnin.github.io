@@ -1,0 +1,234 @@
+
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:4000/</id>
+  <title>Pratik.nl</title>
+  <subtitle>Musings on tech, design, and life.</subtitle>
+  <updated>2022-10-16T22:21:42+05:30</updated>
+  <author>
+    <name>Pratik Nilange</name>
+    <uri>http://localhost:4000/</uri>
+  </author>
+  <link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml"/>
+  <link rel="alternate" type="text/html" hreflang="en"
+    href="http://localhost:4000/"/>
+  <generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator>
+  <rights> © 2022 Pratik Nilange </rights>
+  <icon>/assets/img/favicons/favicon.ico</icon>
+  <logo>/assets/img/favicons/favicon-96x96.png</logo>
+
+
+  
+  <entry>
+    <title>Dilon mein tum..</title>
+    <link href="http://localhost:4000/posts/dilon-mein-tum/" rel="alternate" type="text/html" title="Dilon mein tum.." />
+    <published>2022-10-16T22:05:00+05:30</published>
+  
+    <updated>2022-10-16T22:05:00+05:30</updated>
+  
+    <id>http://localhost:4000/posts/dilon-mein-tum/</id>
+    <content src="http://localhost:4000/posts/dilon-mein-tum/" />
+    <author>
+      <name>Pratik Nilange</name>
+    </author>
+
+  
+    
+    <category term="Quote" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      
+Dilon mein tum apni
+Betaabiyan leke chal rahe ho
+Toh zinda ho tum
+Nazar mein khwabon ki
+Bijliyan leke chal rahe ho
+Toh zinda ho tum
+Hawa ke jhokon ke jaise
+Aazad rehno sikho
+Tum ek dariya ke jaise
+Lehron mein behna sikho
+Har ek lamhe se tum milo
+Khole apni bhaayein
+Har ek pal ek naya samha
+Dekhen yeh nigahaein
+Jo apni aankhon mein
+Hairaniyan leke chal rahe ho
+Toh zinda ho tum
+Dilon mein tum ap...
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>Top Gun: Maverick – 2022</title>
+    <link href="http://localhost:4000/posts/top-gun-maverick-2022/" rel="alternate" type="text/html" title="Top Gun: Maverick – 2022" />
+    <published>2022-08-28T00:00:00+05:30</published>
+  
+    <updated>2022-10-02T12:08:50+05:30</updated>
+  
+    <id>http://localhost:4000/posts/top-gun-maverick-2022/</id>
+    <content src="http://localhost:4000/posts/top-gun-maverick-2022/" />
+    <author>
+      <name>Pratik Nilange</name>
+    </author>
+
+  
+    
+    <category term="Review" />
+    
+    <category term="Movie-Review" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      One of the best movies of 2022! Action-packed, outstanding cinematography. Missed a lot of references though, because I haven’t watched the first instalment (Yeah, big mistake. I should’ve watched it). Cannot believe that two movies were shot 36 years apart. Tom Cruise sure is still at the top of his game. A solid 8/10!
+
+Watch the trailer here.
+
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>Chasing the Bullet – a Royal Enfield documentary</title>
+    <link href="http://localhost:4000/posts/chasing-the-bullet/" rel="alternate" type="text/html" title="Chasing the Bullet – a Royal Enfield documentary" />
+    <published>2022-08-28T00:00:00+05:30</published>
+  
+    <updated>2022-10-02T12:08:50+05:30</updated>
+  
+    <id>http://localhost:4000/posts/chasing-the-bullet/</id>
+    <content src="http://localhost:4000/posts/chasing-the-bullet/" />
+    <author>
+      <name>Pratik Nilange</name>
+    </author>
+
+  
+    
+    <category term="Motorcycling" />
+    
+    <category term="Royal-Enfield" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      Lucky to have started my motorcycling journey on a Royal Enfield, back in 2019! Here’s a great documentary on The Bullet by Chris Zahner.
+
+Watch the documentary here.
+
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>So many books, so little time</title>
+    <link href="http://localhost:4000/posts/so-many-books-so-little-time/" rel="alternate" type="text/html" title="So many books, so little time" />
+    <published>2022-07-13T00:00:00+05:30</published>
+  
+    <updated>2022-10-02T12:08:50+05:30</updated>
+  
+    <id>http://localhost:4000/posts/so-many-books-so-little-time/</id>
+    <content src="http://localhost:4000/posts/so-many-books-so-little-time/" />
+    <author>
+      <name>Pratik Nilange</name>
+    </author>
+
+  
+    
+    <category term="Quote" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      
+    
+        One glance at a book and you hear the voice of another person, perhaps someone dead for 1,000 years. To read is to voyage through time.
+    
+    
+       Carl Sagan
+    
+
+
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>The Irishman – 2019</title>
+    <link href="http://localhost:4000/posts/the-irishman-2019/" rel="alternate" type="text/html" title="The Irishman – 2019" />
+    <published>2022-01-09T00:00:00+05:30</published>
+  
+    <updated>2022-10-02T12:08:50+05:30</updated>
+  
+    <id>http://localhost:4000/posts/the-irishman-2019/</id>
+    <content src="http://localhost:4000/posts/the-irishman-2019/" />
+    <author>
+      <name>Pratik Nilange</name>
+    </author>
+
+  
+    
+    <category term="Review" />
+    
+    <category term="Movie-Review" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      
+
+A sublime 7/10! Watched this 3+ hour flick in chunks. The story is intriguing, the cast is unparalleled, and the movie has The Godfather-like vibes to it because of the similar setting and period in which the storyline runs. Worth spending three hours on? Yup.
+
+    </summary>
+  
+
+  </entry>
+
+</feed>
+
+
