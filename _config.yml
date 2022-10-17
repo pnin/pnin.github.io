@@ -15,7 +15,7 @@ author:
 permalink: pretty
 
 baseurl: ""
-
+destination: docs
 highlighter: none
 
 exclude:
