@@ -15,7 +15,7 @@ Hello, I'm Pratik! I’m an engineer and a self-taught graphic designer living i
 + remembering birthdays on <a href="https://facebook.com/pratnil" target="_blank" class="link">facebook</a>
 + don't really use <a href="https://instagram.com/pratiknilange" target="_blank" class="link">instagram</a>
 
-<p>Alternatively. for a more formal (boring) conversation, spam me on my <a href="mailto:contact@pratiknilange.in" class="link">mail</a>.</p>
+<p>Alternatively, for a more formal (boring) conversation, you may spam me on my <a href="mailto:contact@pratiknilange.in" class="link">mail</a>.</p>
 
 
 ## About the site
