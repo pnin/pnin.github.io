@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Pratik Nilange</title>
+ <link href="http://localhost:4000/atom.xml" rel="self"/>
+ <link href="http://localhost:4000/"/>
+ <updated>2022-10-17T10:10:05+05:30</updated>
+ <id>http://localhost:4000</id>
+ <author>
+   <name>pro7on</name>
+   <email></email>
+ </author>
+
+ 
+ <entry>
+   <title>Dilon mein tum..</title>
+   <link href="http://localhost:4000/2022/10/16/dilon-mein-tum"/>
+   <updated>2022-10-16T22:05:00+05:30</updated>
+   <id>http://localhost:4000/2022/10/16/dilon-mein-tum</id>
+   <content type="html">&lt;pre&gt;
+Dilon mein tum apni
+Betaabiyan leke chal rahe ho
+Toh zinda ho tum
+Nazar mein khwabon ki
+Bijliyan leke chal rahe ho
+Toh zinda ho tum
+Hawa ke jhokon ke jaise
+Aazad rehno sikho
+Tum ek dariya ke jaise
+Lehron mein behna sikho
+Har ek lamhe se tum milo
+Khole apni bhaayein
+Har ek pal ek naya samha
+Dekhen yeh nigahaein
+Jo apni aankhon mein
+Hairaniyan leke chal rahe ho
+Toh zinda ho tum
+Dilon mein tum apni
+Betaabiyan leke chal rahe ho
+Toh zinda ho tum
+
+&lt;b&gt;- Zindagi Na Milegi Dobara&lt;/b&gt;
+&lt;/pre&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Top Gun: Maverick – 2022</title>
+   <link href="http://localhost:4000/2022/08/28/top-gun-maverick-2022"/>
+   <updated>2022-08-28T00:00:00+05:30</updated>
+   <id>http://localhost:4000/2022/08/28/top-gun-maverick-2022</id>
+   <content type="html">&lt;p&gt;One of the best movies of 2022! Action-packed, outstanding cinematography. Missed a lot of references though, because I haven’t watched the first instalment (Yeah, big mistake. I should’ve watched it). Cannot believe that two movies were shot 36 years apart. Tom Cruise sure is still at the top of his game. A solid 8/10!&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://youtu.be/giXco2jaZ_4)&quot; class=&quot;link visible-xs-block hidden-xs&quot;&gt;Watch the trailer here&lt;/a&gt;.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Chasing the Bullet – a Royal Enfield documentary</title>
+   <link href="http://localhost:4000/2022/08/28/chasing-the-bullet"/>
+   <updated>2022-08-28T00:00:00+05:30</updated>
+   <id>http://localhost:4000/2022/08/28/chasing-the-bullet</id>
+   <content type="html">&lt;p&gt;Lucky to have started my motorcycling journey on a Royal Enfield, back in 2019! Here’s a great documentary on The Bullet by &lt;a href=&quot;https://www.youtube.com/user/PrometheanLiver&quot; class=&quot;link&quot;&gt;Chris Zahner&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/embed/cBHgg67gBRs&quot; class=&quot;link visible-xs-block hidden-xs&quot;&gt;Watch the documentary here&lt;/a&gt;.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>So many books, so little time</title>
+   <link href="http://localhost:4000/2022/07/13/so-many-books-so-little-time"/>
+   <updated>2022-07-13T00:00:00+05:30</updated>
+   <id>http://localhost:4000/2022/07/13/so-many-books-so-little-time</id>
+   <content type="html">&lt;figure&gt;
+    &lt;blockquote class=&quot;blockquote&quot;&gt;
+        &lt;p&gt;One glance at a book and you hear the voice of another person, perhaps someone dead for 1,000 years. To read is to voyage through time.&lt;/p&gt;
+    &lt;/blockquote&gt;
+    &lt;figcaption class=&quot;blockquote-footer&quot;&gt;
+       Carl Sagan
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>The Irishman – 2019</title>
+   <link href="http://localhost:4000/2022/01/09/the-irishman-2019"/>
+   <updated>2022-01-09T00:00:00+05:30</updated>
+   <id>http://localhost:4000/2022/01/09/the-irishman-2019</id>
+   <content type="html">&lt;p&gt;A sublime 7/10! Watched this 3+ hour flick in chunks. The story is intriguing, the cast is unparalleled, and the movie has The Godfather-like vibes to it because of the similar setting and period in which the storyline runs. Worth spending three hours on? Yup!&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/embed/WHXxVmeGQUc&quot; target=&quot;_blank&quot;&gt;Watch the trailer here&lt;/a&gt;.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>About the site</title>
+   <link href="http://localhost:4000/2021/12/07/about-the-site"/>
+   <updated>2021-12-07T00:00:00+05:30</updated>
+   <id>http://localhost:4000/2021/12/07/about-the-site</id>
+   <content type="html">&lt;p&gt;After being hosted on GitHub Pages for &amp;gt;2 years, this site is now Powered by WordPress. I had not planned to make this shift so soon, as building with Jekyll was simple and nothing can beat the performance of a static site.&lt;/p&gt;
+
+&lt;p&gt;This website is currently operating at a $40 loss YoY from domain name renewal. and WP hosting charges. (No plan to monetize the site either – Ads/Subscription)&lt;/p&gt;
+
+&lt;p&gt;An archive of all previous posts would be hosted on my GitHub.io soon (my weekend project).&lt;/p&gt;
+
+&lt;h3 id=&quot;update-7-jun-2022&quot;&gt;Update (7 Jun, 2022)&lt;/h3&gt;
+&lt;p&gt;Moved the blog from &lt;a href=&quot;https://pratiknilange.in&quot;&gt;pratiknilange.in&lt;/a&gt; to &lt;a href=&quot;https://pratik.nl&quot;&gt;pratik.nl&lt;/a&gt;. So there goes another $20/yr. I should seriously refrain from buying any more domains 🤦🏼‍♂️.&lt;/p&gt;
+
+&lt;h3 id=&quot;update-30-oct-2022&quot;&gt;Update (30 Oct, 2022)&lt;/h3&gt;
+&lt;p&gt;You can say that this site is back to the pavilion. The lack of basic customization and unavailability of good themes made this reverse shit from WP to GP a no-brainer. Also the pricing mess they got into early this year makes me wonder how the future and direction of their products will be. Gutenberg isn’t making things good either, I miss my early blogging days on the classic editor and how I was absolutely in love with it. The block editor for themes is easily one of the most buggy piece of software I have come across in the recent past. Hope they fix it soon and come out with a healthy revival plan for the lost user base. Now coming to the details of this site, it is primarily built in HTML and Markdown. Preprocessed by Jekyll. It’s hosted on Github and distributed globally by Cloudflare.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Rocket Singh</title>
+   <link href="http://localhost:4000/2021/11/06/rocket-singh"/>
+   <updated>2021-11-06T00:00:00+05:30</updated>
+   <id>http://localhost:4000/2021/11/06/rocket-singh</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;https://upload.wikimedia.org/wikipedia/en/c/c3/Rocket_Singh_Salesman_of_the_Year.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Pretty Noiceee stuff! Good story, Great cast! My rating – 3.5/5&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Business number nahi, business log hai … sirf log&lt;/em&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>ETS2 - Renault T 380</title>
+   <link href="http://localhost:4000/2021/09/19/ets2-renault-t"/>
+   <updated>2021-09-19T12:12:00+05:30</updated>
+   <id>http://localhost:4000/2021/09/19/ets2-renault-t</id>
+   <content type="html">&lt;p&gt;Here are some low res pictures of my new virtual ride - &lt;strong&gt;Renault T 380&lt;/strong&gt;. And yeah, it has got a Russian plate!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/media/img/ets2_20210919_114904_00.png&quot; class=&quot;img-fluid img-thumbnail&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/media/img/ets2_20210919_115005_00.png&quot; class=&quot;img-fluid img-thumbnail&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/media/img/ets2_20210919_115025_00.png&quot; class=&quot;img-fluid img-thumbnail&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Huion HS64</title>
+   <link href="http://localhost:4000/2021/09/19/huion-hs64"/>
+   <updated>2021-09-19T00:00:00+05:30</updated>
+   <id>http://localhost:4000/2021/09/19/huion-hs64</id>
+   <content type="html">&lt;figure class=&quot;figure&quot;&gt;
+  &lt;img src=&quot;/assets/media/img/IMG_20210919_100424-01.jpeg&quot; class=&quot;figure-img img-fluid img-thumbnail&quot; alt=&quot;...&quot; /&gt;
+  &lt;figcaption class=&quot;figure-caption&quot;&gt;Huion&apos;s HS64 graphic tablet&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;I had ordered Huion’s HS64 from Amazon some days ago. It works pretty well. I liked the pen’s grip, the tablet feels sturdy, but there are some tiny scratches already. I will be creating some stuff with it till I run out of nibs (8 of them available in the box), only after which I would be mentally ready for an Apple pencil kind of commitment.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Rivers of London</title>
+   <link href="http://localhost:4000/2021/08/31/rivers-of-london"/>
+   <updated>2021-08-31T00:00:00+05:30</updated>
+   <id>http://localhost:4000/2021/08/31/rivers-of-london</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1401385034l/9317452.jpg&quot; alt=&quot;&quot; width=&quot;211&quot; height=&quot;342&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Reading a crime title after a pretty long time. &lt;a href=&quot;https://www.goodreads.com/book/show/9317452-rivers-of-london&quot;&gt;Rivers of London&lt;/a&gt; by Ben Aaronovitch.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>400 Days by Chetan Bhagat</title>
+   <link href="http://localhost:4000/2021/05/12/400-days-by-chetan-bhagat"/>
+   <updated>2021-05-12T00:00:00+05:30</updated>
+   <id>http://localhost:4000/2021/05/12/400-days-by-chetan-bhagat</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1633640897l/59237341._SY475_.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Rating – ⭐⭐⭐&lt;/p&gt;
+
+&lt;p&gt;How do I put it? The case that Saurabh and Keshav are working on this time, isn’t as thrilling as the previous ones. There’s the usual North Saas-South Bahu rift (more of a distraction), the plot gets too predictable mid-way. Now CB’s writing style is, fineish, some people like it, some don’t. 400 days definitely can’t be listed in his Top 5 works, or Top 10 for that matter (Oh, just checked his wiki, this is his 10th Fiction, so it is in the Top 10 by default. Let’s hope it doesn’t stay there for long).&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>When you come out of the storm..</title>
+   <link href="http://localhost:4000/2021/05/11/when-you-come-out-of-the-storm"/>
+   <updated>2021-05-11T00:00:00+05:30</updated>
+   <id>http://localhost:4000/2021/05/11/when-you-come-out-of-the-storm</id>
+   <content type="html">&lt;figure&gt;
+    &lt;blockquote class=&quot;blockquote&quot;&gt;
+        &lt;p&gt;And once the storm is over, you won’t remember how you made it through, how you managed to survive. You won’t even be sure, whether the storm is really over. But one thing is certain. When you come out of the storm, you won’t be the same person who walked in. That’s what this storm’s all about&lt;/p&gt;
+    &lt;/blockquote&gt;
+    &lt;figcaption class=&quot;blockquote-footer&quot;&gt;
+        Haruki Murakami &lt;cite title=&quot;Source Title&quot;&gt;Kafka on the Shore&lt;/cite&gt;
+    &lt;/figcaption&gt;
+&lt;/figure&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Field trip</title>
+   <link href="http://localhost:4000/2021/03/14/field-trip"/>
+   <updated>2021-03-14T00:00:00+05:30</updated>
+   <id>http://localhost:4000/2021/03/14/field-trip</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/media/img/field-pic-1.jpeg&quot; class=&quot;img-fluid img-thumbnail&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Somewhere in Karnataka.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Harmonics 2020</title>
+   <link href="http://localhost:4000/2020/02/21/harmonics-2021"/>
+   <updated>2020-02-21T00:00:00+05:30</updated>
+   <id>http://localhost:4000/2020/02/21/harmonics-2021</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;https://nilange.files.wordpress.com/2022/01/pratiknilange_19.png?w=512&quot; class=&quot;img-thumbnail&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://nilange.files.wordpress.com/2022/01/pratiknilange_20.jpeg?w=542&quot; class=&quot;img-thumbnail&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>What the hell was I thinking?!</title>
+   <link href="http://localhost:4000/2019/06/20/what-the-hell-was-i-thinking"/>
+   <updated>2019-06-20T00:00:00+05:30</updated>
+   <id>http://localhost:4000/2019/06/20/what-the-hell-was-i-thinking</id>
+   <content type="html">&lt;p&gt;I turned 19 this Summer (March to be precise) and I was up for a driving license test. I don’t know about it in other countries, but here in India it’s a serious business and you got to have pretty good driving skills to pass this test (unless you have a fixer). For non-transport vehicles, there are two variants of this test: A two-wheeler license test (For Motorcycle with Gear) and a Four-Wheeler License (For Cars). To ease up things a little, we consider driving a bike or a car whose dimensions and capacity are, you know, smaller compared to the ones we drive on road.&lt;/p&gt;
+
+&lt;p&gt;The deadly serpentine track consists of some really steep (geometrical disaster) turns which can surely give you a twinge in the ass (while driving a bike of course).  Now out of curiosity or utter stupidity, my choice of bike was a Royal Enfield Classic.&lt;/p&gt;
+
+&lt;p&gt;Talking about its dimensions, the bike is about 2.2 meters long (7.3ft), 0.8 meters wide (2.2ft). Fortunately, it has a power start.&lt;/p&gt;
+
+&lt;figure class=&quot;figure&quot;&gt;
+  &lt;img src=&quot;https://nilange.files.wordpress.com/2022/08/1998cam_2022_08_28_13_12_44_fn-01.jpeg?w=768&quot; class=&quot;figure-img img-fluid img-thumbnail&quot; alt=&quot;...&quot; /&gt;
+  &lt;figcaption class=&quot;figure-caption&quot;&gt;Yes, I had to stick an ugly learner&apos;s sign on the front and back sides of the bike.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Fast-forward to the result, I can say that I survived the test. It was an automobile-miracle that I could drive this beast and pass the test. For the people who are reading this post and are planning to pass the license test on this bike, I would like to tell them one thing, “Darr ke aage Jeet Hain”.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Hello World</title>
+   <link href="http://localhost:4000/2019/03/14/hello-world"/>
+   <updated>2019-03-14T22:00:00+05:30</updated>
+   <id>http://localhost:4000/2019/03/14/hello-world</id>
+   <content type="html">&lt;p&gt;An obligatory hello world post.&lt;/p&gt;
+</content>
+ </entry>
+ 
+
+</feed>
