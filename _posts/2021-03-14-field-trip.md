@@ -1,9 +1,8 @@
 ---
 title: Field trip
 excerpt: 🦗 Somewhere in Karnataka..
-type: blog
-categories: [Travel]
 tags: [travel, karnataka, life]
+layout: post
 ---
 
 

@@ -1,62 +1,35 @@
-site: Pratik Nilange
-url: https://pratik.nl #yoururl
 title: Pratik Nilange
+tagline: Musings on tech, design, and life.
 description: Musings on tech, design, and life.
+url: https://pratik.nl
+author: pratiknilange
 twitter:
-  username: pratiknilange #yourusername
+  username: pratiknilange
   card: summary
-  creator: pratiknilange #yourusername
-author:
-  twitter: pratiknilange #yourusername
-  name: pratiknilange #yourusername
-  avatar:
-  email: #youremail
-  url: pratik.nl #yoururl
+social:
+  name: Pratik Nilange
+  links:
+    - https://twitter.com/pratiknilange
+    - https://facebook.com/pratnil
+    - https://linkedin.com/in/npt
+    - https://github.com/pratiknilange
+    - https://www.flickr.com/photos/186635911@N03/
+    - https://instagram.com/pratiknilange
+    - https://www.goodreads.com/review/list/120733875?shelf=read
+locale: en_US
+
 permalink: pretty
 
-baseurl: ""
-destination: docs
-highlighter: none
+#google_analytics: UA-NNNNNNNN-N
 
-exclude:
-  - .jekyll-cache
-  
-compress_html:
-  clippings: all
-  comments: ["<!-- ", " -->"]
+header_pages:
+ - index.md
+ - about.md
 
-sass:
-  sass_dir:          _sass
-  style:            :compressed
+footer: '#NSNO' # 'bad puns on <a href="https://twitter.com/pratiknilange">twitter</a>'
+
+style: light # dark (default) or light
+#listen_for_clients_preferred_style: true # true or false (default)
 
 plugins:
-  - jekyll-paginate
   - jekyll-seo-tag
-  - jekyll-sitemap  
-
-collections:
-  pages:
-    output: true
-    permalink: /:name
-  posts:
-    output: true
-    permalink: /:year/:month/:day/:slug
-  
-defaults:
-  -
-    scope:
-      path: ""
-    values:
-      layout: "default"
-  -
-    scope:
-      path: ""
-      type: "pages"
-    values:
-      layout: "page"
-  -
-    scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"

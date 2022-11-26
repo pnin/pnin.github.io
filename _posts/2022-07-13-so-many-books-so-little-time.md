@@ -1,8 +1,7 @@
 ---
 title: So many books, so little time
-type: blog
-categories: [Quote]
 tags: [quote, carl-sagan]
+layout: post
 ---
 
 <figure>

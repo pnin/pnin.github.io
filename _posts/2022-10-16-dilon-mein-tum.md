@@ -1,9 +1,7 @@
 ---
 title: "Dilon mein tum.."
-type: life
-categories: [Quote]
 tags: [life, bollywood]
-date: 2022-10-16 22:05:00 +0530
+layout: post
 ---
 
 <pre>

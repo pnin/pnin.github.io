@@ -1,8 +1,7 @@
 ---
 title: Rivers of London
-type: review
-categories: [Review, Book-Review]
 tags: [review, book-review, rivers-of-london]
+layout: post
 ---
 
 <img src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1401385034l/9317452.jpg" alt="" width="211" height="342"/>
