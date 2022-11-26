@@ -3,10 +3,10 @@
 /**
  * Style variables
  */
-$base-font-family: "Roboto Mono" !default;
+$base-font-family: "Roboto Mono", monospace !default;
 $base-font-size: 13px !default;
 $mobile-font-size: 13px !default;
-// $base-line-height: 1.5 !default;
+$base-line-height: 1.5 !default;
 $container-width: 90% !default;
 $container-max-width: 600px !default;
 
@@ -21,7 +21,7 @@ body {
   font-size: $base-font-size;
   color: var(--text-color);
   text-align: left;
-  // line-height: $base-line-height !important;
+  line-height: $base-line-height !important;
 }
 h1,
 h2,
@@ -50,6 +50,7 @@ a:hover {
   background-color: var(--base-color);
 }
 
+@media only screen and (max-device-width: 500px) { * { font-size: $mobile-font-size !important; } }
 
 /**
  * Layout
@@ -163,7 +164,7 @@ textarea {
   caret-color: var(--text-color);
   font-size: $base-font-size;
   font-family: $base-font-family;
-  // line-height: $base-line-height;
+  line-height: $base-line-height;
 }
 input,
 select,
@@ -184,7 +185,7 @@ textarea::-webkit-input-placeholder {
 input[type="submit"] {
   font-size: $base-font-size;
   font-family: $base-font-family;
-  // line-height: $base-line-height;
+  line-height: $base-line-height;
   cursor: pointer;
   color: var(--link-color);
   background-color: var(--background-color);
@@ -218,7 +219,7 @@ pre {
   overflow: auto;
   font-size: $base-font-size;
   color: var(--text-color);
-  // line-height: 1.7 !important;
+  line-height: 1.7 !important;
   font-family: $base-font-family !important;
 }
 .highlight .hll {
