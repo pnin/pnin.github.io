@@ -10,9 +10,7 @@ The deadly serpentine track consists of some really steep (geometrical disaster)
 
 Talking about its dimensions, the bike is about 2.2 meters long (7.3ft), 0.8 meters wide (2.2ft). Fortunately, it has a power start.
 
-<figure class="figure">
-  <img src="https://nilange.files.wordpress.com/2022/08/1998cam_2022_08_28_13_12_44_fn-01.jpeg?w=768" class="figure-img img-fluid img-thumbnail" alt="...">
-  <figcaption class="figure-caption">Yes, I had to stick an ugly learner's sign on the front and back sides of the bike.</figcaption>
-</figure>
+<img src="/assets/media/img/1998cam_2022_08_28_13_12_44_fn-01.jpeg" alt="Yes, I had to stick an ugly learner's sign on the front and back sides of the bike.">
+<span class="figcaption">Yes, I had to stick an ugly learner's sign on the front and back sides of the bike.</span>
 
 Fast-forward to the result, I can say that I survived the test. It was an automobile-miracle that I could drive this beast and pass the test. For the people who are reading this post and are planning to pass the license test on this bike, I would like to tell them one thing, “Darr ke aage Jeet Hain”.
