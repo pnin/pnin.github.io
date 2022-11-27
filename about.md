@@ -1,9 +1,7 @@
 ---
-title: /about
 layout: page
-permalink: /about
-pagetitle: About
-date: 25-11-2022
+title: About
+permalink: /about/
 ---
 
 Hello, I'm Pratik! I’m an engineer and a self-taught graphic designer living in Bangalore. I also write about electronics (mostly processors), motorcycles, cybersecurity, and cricket. I co-created The Boring Magazine, Gradiento, Internet Of Bings, The Circuit Breakers, and Nil 5tudio (sadly some of them are defunct A/O ’22). I speak and code in multiple languages (currently learning Español & Go).

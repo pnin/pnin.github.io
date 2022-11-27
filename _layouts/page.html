@@ -1,23 +1,14 @@
-<!DOCTYPE html>
-<html lang="{{ page.lang | default: site.lang | default: "en" }}">
-<meta http-equiv="Content-Security-Policy" content="default-src 'none'; script-src 'self'; style-src 'self' https://fonts.googleapis.com; img-src 'self'; font-src 'self' https://fonts.gstatic.com; connect-src 'self'; media-src 'self'; object-src 'self'; child-src 'self'; form-action 'none'; base-uri 'self'" />
-<meta http-equiv="X-XSS-Protection"  content="1;mode=block" always>
-<meta http-equiv="Referrer-Policy" content="no-referrer, strict-origin-when-cross-origin">
+---
+layout: default
+---
+<article class="post">
 
-  {%- include head.html -%}
+  <header class="post-header">
+    <h1 class="post-title">{{ page.title | escape }}</h1>
+  </header>
 
-  <body>
-    <div class="container">
+  <div class="post-content">
+    {{ content }}
+  </div>
 
-      {%- include header.html -%}
-
-    <main>
-      <p><h1>{{ page.pagetitle }}</h1><span class="gray" title="Last updated on {{ page.date | date: "%-d %B %Y" }}">Last updated on {{ page.date | date: "%-d %B %Y" }}</span></p>
-      {{ content }}
-    </main>
-
-    {%- include footer.html -%}
-
-    </div>
-  </body>
-</html>
+</article>
