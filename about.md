@@ -8,7 +8,7 @@ Hello, I'm Pratik! I’m an engineer and a self-taught graphic designer living i
 
 ## Social
 
-+ bad puns on <a href="https://twitter.com/pratikwa" target="_blank" class="link">twitter</a>
++ bad puns on <a href="https://twitter.com/nilnge" target="_blank" class="link">twitter</a>
 + breaking code on <a href="https://github.com/pratiknilange" target="_blank" class="link">github</a>
 + business stuff on <a href="https://linkedin.com/in/npt" target="_blank" class="link">linkedin</a>
 + bookshelf on <a href="https://www.goodreads.com/review/list/120733875?shelf=read" target="_blank" class="link">goodreads</a>
