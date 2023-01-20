@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://pratik.nl/sitemap.xml

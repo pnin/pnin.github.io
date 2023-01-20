@@ -1,44 +1,62 @@
+site: Pratik Nilange
+url: https://pratik.nl #yoururl
 title: Pratik Nilange
+description: Musings on tech, design, and life.
+twitter:
+  username: nilnge #yourusername
+  card: summary
+  creator: nilnge #yourusername
 author:
-  name: Pratik Nilange
-  email: contact@pratiknilange.in
-description: "Musings on tech, design, and life."
+  twitter: nilnge #yourusername
+  name: nilnge #yourusername
+  avatar:
+  email: contact@pratiknilange.in #youremail
+  url: pratik.nl #yoururl
+permalink: pretty
 
-show_excerpts: false # set to true to show excerpts on the homepage
+baseurl: ""
+destination: docs
+highlighter: none
 
-# Minima date format
-# refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
-minima:
-  date_format: "%b %-d, %Y"
-  skin: classic
-  # generate social links in footer
-  social_links:
-    # - { platform: devto,          user_url: "https://dev.to/jekyll" }
-    # - { platform: dribbble,       user_url: "https://dribbble.com/jekyll" }
-    - { platform: facebook,       user_url: "https://facebook.com/pratnil" }
-    - { platform: flickr,         user_url: "https://www.flickr.com/photos/186635911@N03/" }
-    - { platform: github,         user_url: "https://github.com/pratiknilange" }
-    # - { platform: google_scholar, user_url: "https://scholar.google.com/citations?user=qc6CJjYAAAAJ" }
-    - { platform: instagram,      user_url: "https://instagram.com/pratiknilange" }
-    # - { platform: keybase,        user_url: "https://keybase.io/jekyll" }
-    - { platform: linkedin,       user_url: "https://www.linkedin.com/in/npt" }
-    # - { platform: microdotblog,   user_url: "https://micro.blog/jekyll" }
-    # - { platform: pinterest,      user_url: "https://www.pinterest.com/jekyll" }
-    # - { platform: stackoverflow,  user_url: "https://stackoverflow.com/users/1234567/jekyll" }
-    # - { platform: telegram,       user_url: "https://t.me/jekyll" }
-    - { platform: twitter,        user_url: "https://twitter.com/nilnge" }
-    - { platform: youtube,        user_url: "https://www.youtube.com/@idlivada" }
+exclude:
+  - .jekyll-cache
+  
+compress_html:
+  clippings: all
+  comments: ["<!-- ", " -->"]
 
-# If you want to link only specific pages in your header, uncomment
-# this and add the path to the pages in order as they should show up
-header_pages:
-- about.md
-
-# Build settings
-theme: minima
+sass:
+  sass_dir:          _sass
+  style:            :compressed
 
 plugins:
- - jekyll-feed
- - jekyll-seo-tag
+  - jekyll-paginate
+  - jekyll-seo-tag
+  - jekyll-sitemap  
 
-permalink: pretty
+collections:
+  pages:
+    output: true
+    permalink: /:name
+  posts:
+    output: true
+    permalink: /:year/:month/:day/:slug
+  
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"

@@ -1,0 +1,44 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Pratik Nilange",
+    "home_page_url": "https://pratik.nl/",
+    "feed_url": "https://pratik.nl/feed.json",
+    "description": "Musings on tech, design, and life.",
+    "icon": "https://pratik.nl/apple-touch-icon.png",
+    "favicon": "https://pratik.nl/favicon.ico",
+    "expired": false,
+    
+    "author":  {
+        "name": "nilnge",
+        "url": "pratik.nl",
+        "avatar": null
+    },
+    
+"items": [
+    
+        {
+            "id": "https://pratik.nl/2023/01/20/hello-world",
+            "title": "Hello world",
+            "summary": null,
+            "content_text": "An obligatory hello world post.",
+            "content_html": "<p>An obligatory hello world post.</p>",
+            "url": "https://pratik.nl/2023/01/20/hello-world",
+            
+            
+            
+            "tags": ["update","life"],
+            
+            "date_published": "2023-01-20T00:00:00+05:30",
+            "date_modified": "2023-01-20T00:00:00+05:30",
+            
+                "author":  {
+                "name": "nilnge",
+                "url": "pratik.nl",
+                "avatar": null
+                }
+                
+            
+        }
+    
+    ]
+}
