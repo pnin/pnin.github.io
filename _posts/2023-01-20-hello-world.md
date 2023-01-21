@@ -1,7 +1,7 @@
 ---
 title: Hello world
 layout: post
-tags: ['update', 'life']
+place: Bangalore
 ---
 
 An obligatory hello world post.

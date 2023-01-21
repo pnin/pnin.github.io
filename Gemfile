@@ -1,7 +1,8 @@
-source "https://rubygems.org"
-gem 'jekyll'
-gem 'jekyll-paginate'
-gem 'jekyll-seo-tag'
-gem 'jekyll-sitemap'
-gem "webrick", "~> 1.7"
+# frozen_string_literal: true
 
+source "https://rubygems.org"
+gemspec
+
+gem "jekyll-paginate", "~> 1.1"
+
+gem "jekyll-feed", "~> 0.17.0"

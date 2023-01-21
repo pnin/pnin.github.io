@@ -1,62 +1,10 @@
-site: Pratik Nilange
-url: https://pratik.nl #yoururl
-title: Pratik Nilange
+title: Pratik.nl
+author: Pratik Nilange
 description: Musings on tech, design, and life.
-twitter:
-  username: nilnge #yourusername
-  card: summary
-  creator: nilnge #yourusername
-author:
-  twitter: nilnge #yourusername
-  name: nilnge #yourusername
-  avatar:
-  email: contact@pratiknilange.in #youremail
-  url: pratik.nl #yoururl
-permalink: pretty
-
-baseurl: ""
-destination: docs
-highlighter: none
-
-exclude:
-  - .jekyll-cache
-  
-compress_html:
-  clippings: all
-  comments: ["<!-- ", " -->"]
-
-sass:
-  sass_dir:          _sass
-  style:            :compressed
+# permalink: pretty
 
 plugins:
-  - jekyll-paginate
-  - jekyll-seo-tag
-  - jekyll-sitemap  
+- jekyll-paginate
+- jekyll-feed
 
-collections:
-  pages:
-    output: true
-    permalink: /:name
-  posts:
-    output: true
-    permalink: /:year/:month/:day/:slug
-  
-defaults:
-  -
-    scope:
-      path: ""
-    values:
-      layout: "default"
-  -
-    scope:
-      path: ""
-      type: "pages"
-    values:
-      layout: "page"
-  -
-    scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
+paginate: 10

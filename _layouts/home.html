@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ site.title }} - {{ site.description }}</title>
+
+    {% include imports.html %}
+</head>
+<body>
+    <div class="container my-5">
+        {% include site-title.html %}
+        <div class="pb-3">
+            <p class="py-3 mb-0 fw-bold">Blog posts</p>
+            {% for post in paginator.posts %}
+                <p class="mb-0 toc-item"><span class="date">{{ post.date | date: '%d %b %Y' }}</span> ... <a class="" href="{{ post.url }}">{{ post.title }}</a></p>
+            {% endfor %}
+        </div>
+        <!-- Pagination links -->
+        <div class="paginate-item">
+            <p class="mb-0">
+                Page: {{ paginator.page }} of {{ paginator.total_pages }}
+            </p>
+            <p>
+            {% if paginator.previous_page %}
+                <a href="{{ paginator.previous_page_path }}" class="previous ">Previous</a>
+            {% else %}
+                <span class="previous">Previous</span>
+            {% endif %} ...
+             {% if paginator.next_page %}
+                <a href="{{ paginator.next_page_path }}" class="next ">Next</a>
+                {% else %}
+                <span class="next ">Next</span>
+            {% endif %}
+            </p>
+        </div>
+        <hr>
+        {% include footer.html %}
+    </div>
+</body>
+</html>
