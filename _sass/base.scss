@@ -65,7 +65,9 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6{
 // links
 
 a.title-link{
-    @extend .h4;
-    color: #E74C3C !important;
+    @extend .h4, .fw-bold;
+    background: linear-gradient(135deg, #ec528c 0%, #e2ca36 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
     text-decoration: none !important;
 }
