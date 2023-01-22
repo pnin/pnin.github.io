@@ -1,6 +1,10 @@
 @import "scss/bootstrap.scss";
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&display=swap');
 
+.container{
+    @extend .px-3;
+}
+
 // dark theme
 
 body{
@@ -66,9 +70,7 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6{
 
 a.title-link{
     @extend .h4;
-    background: linear-gradient(135deg, #ec528c 0%, #e2ca36 100%);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
+    color: skyblue !important;
     text-decoration: none !important;
     font-weight: 800 !important;
 }
