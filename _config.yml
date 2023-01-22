@@ -1,10 +1,22 @@
-title: Pratik.nl
-author: Pratik Nilange
-description: Musings on tech, design, and life.
-# permalink: pretty
+# Setup
+title:               Pratik Nilange
+tagline:             'unlucky in cards'
+description:         'Quick links'
+url:                 
+baseurl:             '' # /pratik in case the root dir is not .g.io 
+paginate:            5
+permalink:           pretty
 
+# About/contact
+author:
+  name:              Pratik Nilange
+  url:               https://twitter.com/pnonf
+  email:             pratik.nilange@icloud.com
+
+# Gems
 plugins:
-- jekyll-paginate
-- jekyll-feed
+  - jekyll-paginate
 
-paginate: 10
+# Custom vars
+version:             1.1.0
+google_analytics_id: #UA-XXXX-Y

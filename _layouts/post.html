@@ -1,24 +1,28 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>{{ page.title }} - {{ site.title }}</title>
+---
+layout: default
+---
 
-    {% include imports.html %}
-</head>
-<body>
-    <div class="container my-5">
-        {% include site-title.html %}
-        <p class="py-3 fw-bold">
-            {{ page.title }}
-            <br>
-            <span style="color: gray;" class="fw-normal date">{{ page.date | date: '%d %b %Y' }} – {{ page.place }}</span>
-        </p>
-        {{ content }}
-        <hr>
-        {% include footer.html %}
-    </div>
-</body>
-</html>
+<div class="post">
+  <h1 class="post-title">{{ page.title }}</h1>
+  <span class="post-date">{{ page.date | date_to_string }}</span>
+  {{ content }}
+</div>
+
+{% assign filtered_posts = site.related_posts | where: 'dailylog', false %}
+{% if filtered_posts.size >= 1 %}
+<div class="related">
+  <h2>Other posts</h2>
+  <ul class="related-posts">
+    {% for post in filtered_posts limit:3 %}
+      <li>
+        <h3>
+          <a href="{{ site.baseurl }}{{ post.url }}">
+            {{ post.title }}
+            <small>{{ post.date | date_to_string }}</small>
+          </a>
+        </h3>
+      </li>
+    {% endfor %}
+  </ul>
+</div>
+{% endif %}
