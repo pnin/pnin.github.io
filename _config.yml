@@ -1,6 +1,6 @@
 # Setup
 title:               Pratik Nilange
-tagline:             'unlucky in cards'
+tagline:             'Unlucky in cards'
 description:         'Quick links'
 url:                 
 baseurl:             '' # /pratik in case the root dir is not .g.io 
@@ -10,8 +10,8 @@ permalink:           pretty
 # About/contact
 author:
   name:              Pratik Nilange
-  url:               https://twitter.com/pnonf
-  email:             pratik.nilange@icloud.com
+  url:               https://twitter.com/nilnge
+  email:             contact@pratiknilange.in
 
 # Gems
 plugins:
