@@ -1,22 +1,27 @@
-# Setup
-title:               Pratik Nilange
-tagline:             'Unlucky in cards'
-description:         'Quick links'
-url:                 
-baseurl:             '' # /pratik in case the root dir is not .g.io 
-paginate:            5
-permalink:           pretty
+# site
+title: Pratik Nilange
+baseurl: ""
+url: "http://pratik.nl"
+favicon: "/assets/sample/ico.png"
+g_analytics:
 
-# About/contact
-author:
-  name:              Pratik Nilange
-  url:               https://twitter.com/nilnge
-  email:             contact@pratiknilange.in
+# bio
+header: Pratik Nilange
+desc: >
+  Musings on tech, design, and life.
 
-# Gems
-plugins:
-  - jekyll-paginate
+# posts
+date_format: "%Y"
+post_title: Story
+post_date: Year
+post_cat: Genre
 
-# Custom vars
-version:             1.1.0
-google_analytics_id: #UA-XXXX-Y
+# post detail
+prev-next: true
+
+# build settings
+markdown: kramdown
+# theme: louie
+exclude:
+  - Gemfile
+  - Gemfile.lock
