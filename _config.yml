@@ -25,3 +25,5 @@ markdown: kramdown
 exclude:
   - Gemfile
   - Gemfile.lock
+
+permalink: pretty
