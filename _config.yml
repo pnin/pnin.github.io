@@ -13,3 +13,4 @@ twitty:
 sass:
   style: compressed
 permalink: pretty
+timezone: Asia/Calcutta
