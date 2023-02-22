@@ -1,14 +1,32 @@
----
-layout: default
----
-<article class="post">
-
-  <header class="post-header">
-    <h1 class="post-title">{{ page.title | escape }}</h1>
-  </header>
-
-  <div class="post-content">
-    {{ content }}
-  </div>
-
-</article>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ page.title }} | {{ site.title }}</title>
+    {% include head.html %}
+</head>
+<body class="mb-5">
+    <div class="container">
+        <div class="content">
+            <div class="px-3" style="border-bottom: solid 1px rgb(230, 229, 229);">
+                <p class="mb-0 py-4 h5">
+                    <a href="/" style="text-decoration: none; color: #1d9bf0 !important">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="currentColor" class="bi bi-arrow-left-circle" viewBox="0 0 16 16">
+                            <path fill-rule="evenodd" d="M1 8a7 7 0 1 0 14 0A7 7 0 0 0 1 8zm15 0A8 8 0 1 1 0 8a8 8 0 0 1 16 0zm-4.5-.5a.5.5 0 0 1 0 1H5.707l2.147 2.146a.5.5 0 0 1-.708.708l-3-3a.5.5 0 0 1 0-.708l3-3a.5.5 0 1 1 .708.708L5.707 7.5H11.5z"/>
+                        </svg>
+                    </a>&nbsp;&nbsp;&nbsp;
+                    {{ page.title }}
+                </p>
+            </div>
+            <div>
+                <div class="px-3 pt-4" style="border-bottom: solid 1px rgb(230, 229, 229);">
+                    {{content}}
+                    <!-- <p class="text-secondary" style="white-space: nowrap;"><a class="link-secondary date-link" href="{{ page.url }}">{{page.date | date: "%H:%M"}} · {{page.date | date: "%b %-d, %Y"}}</a></p> -->
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

@@ -1,0 +1,65 @@
+// Imports
+
+// @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+@import "bs/scss/bootstrap";
+
+// html and body
+
+html, body {
+    min-height: 100%;
+}
+
+// container
+
+.container{
+    max-width: 650px;
+    min-height: 100%;
+}
+
+.content{
+    border-left: solid 1px rgb(230, 229, 229);
+    border-right: solid 1px rgb(230, 229, 229);
+    min-height: 100%;
+}
+
+// headings
+
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6, .bold{
+    font-weight: bolder !important;
+    // font-family: 'Poppins', sans-serif !important;
+}
+
+// cover picture
+
+.cover-picture {
+    position: relative;
+}
+
+.img-circle {
+    position:absolute;
+    z-index:99;
+    left:3%;
+    bottom:-35%;
+    width: 25%;
+}
+
+// links
+
+a.date-link {
+    text-decoration: none !important;
+}
+
+a.date-link:hover {
+    text-decoration: underline !important;
+    // text-underline-offset: 2px;
+}
+
+a.tw-link{
+    color: #1d9bf0 !important;
+}
+
+// row - to fit it inside the container
+
+.row{
+    margin-left: 0 !important;
+}

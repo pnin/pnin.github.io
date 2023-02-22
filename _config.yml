@@ -1,59 +1,15 @@
 title: Pratik Nilange
-author:
+description: Random musings on life.
+twitty:
   name: Pratik Nilange
-  email: contact@pratiknilange.in
-
-# The `>` after `description:` means to ignore line-breaks until next key.
-# If you want to omit the line-break after the end of text, use `>-` instead.
-description: >
-  Random musings on life.
-
-# Build settings
-
-theme: minima
-
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-  - jekyll-paginate
-
-# Theme-specific settings
-
-minima:
-  skin: classic
-  # Minima date format.
-  # Refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this.
-  #
-  # date_format: "%b %-d, %Y"
-
-  # Generate social links in footer.
-  #
-  social_links:
-  #   - { platform: devto,          user_url: "https://dev.to/jekyll" }
-  #   - { platform: dribbble,       user_url: "https://dribbble.com/jekyll" }
-    - { platform: facebook,       user_url: "https://www.facebook.com/pratnil" }
-  #   - { platform: flickr,         user_url: "https://www.flickr.com/photos/jekyll" }
-    - { platform: github,         user_url: "https://github.com/pratiknilange" }
-  #   - { platform: google_scholar, user_url: "https://scholar.google.com/citations?user=qc6CJjYAAAAJ" }
-    - { platform: instagram,      user_url: "https://www.instagram.com/pratiknilange" }
-  #   - { platform: keybase,        user_url: "https://keybase.io/jekyll" }
-    - { platform: linkedin,       user_url: "https://www.linkedin.com/in/npt" }
-  #   - { platform: microdotblog,   user_url: "https://micro.blog/jekyll" }
-  #   - { platform: pinterest,      user_url: "https://www.pinterest.com/jekyll" }
-  #   - { platform: stackoverflow,  user_url: "https://stackoverflow.com/users/1234567/jekyll" }
-  #   - { platform: telegram,       user_url: "https://t.me/jekyll" }
-    - { platform: twitter,        user_url: "https://twitter.com/nilnge" }
-  #   - { platform: youtube,        user_url: "https://www.youtube.com/jekyll" }
-
-# If you want to link only specific pages in your header, uncomment this and add the path to the pages in
-# order as they should show up.
-#
-header_pages:
-  - about.md
-  - tags.md
-
-# Set to `true` to show excerpts on the homepage.
-#
-show_excerpts: false
+  summary: "Musings on tech, design, and life."
+  username: PratikNilange
+  location: Bengaluru, India
+  url: /about
+  url-text: pratik.nl/about
+  since: 2023
+  cover-img: "https://pbs.twimg.com/profile_banners/1276902541360418816/1617333212/1500x500"
+  profile-img: "https://pbs.twimg.com/profile_images/1375834857570324482/0XEJ9-7x_400x400.jpg"
+sass:
+  style: compressed
 permalink: pretty
-paginate: 5

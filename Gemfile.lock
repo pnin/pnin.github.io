@@ -1,10 +1,8 @@
 PATH
   remote: .
   specs:
-    minima (2.5.1)
-      jekyll (>= 3.5, < 5.0)
-      jekyll-feed (~> 0.9)
-      jekyll-seo-tag (~> 2.1)
+    twitty (0.1.0)
+      jekyll (~> 4.3)
 
 GEM
   remote: https://rubygems.org/
@@ -39,13 +37,8 @@ GEM
       safe_yaml (~> 1.0)
       terminal-table (>= 1.8, < 4.0)
       webrick (~> 1.7)
-    jekyll-feed (0.17.0)
-      jekyll (>= 3.7, < 5.0)
-    jekyll-paginate (1.1.0)
     jekyll-sass-converter (3.0.0)
       sass-embedded (~> 1.54)
-    jekyll-seo-tag (2.8.0)
-      jekyll (>= 3.8, < 5.0)
     jekyll-watch (2.2.1)
       listen (~> 3.0)
     kramdown (2.4.0)
@@ -77,9 +70,7 @@ PLATFORMS
   x64-mingw-ucrt
 
 DEPENDENCIES
-  bundler
-  jekyll-paginate (~> 1.1)
-  minima!
+  twitty!
 
 BUNDLED WITH
    2.4.1
